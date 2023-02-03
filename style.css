@@ -1,0 +1,30 @@
+/*body{
+  /*background-image: url("https://www.codewithrandom.com/wp-content/uploads/2022/10/Number-Guessing-Game-using-JavaScript-3.png");
+  background-color: #cccccc;
+}*/
+table{
+  width:80%;
+  height:50%;
+  margin-left:5px;
+}
+.para{
+  font-size: 19px;
+}
+
+.image{
+  width: 250%;
+  height:60%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top:80px;
+  margin-bottom: 50px;
+}
+.image2{
+
+  width: 90%;
+  height:60%;
+  margin-left: 230px;
+  margin-right: 10px;
+  margin-top:80px;
+  margin-bottom: 50px;
+}
